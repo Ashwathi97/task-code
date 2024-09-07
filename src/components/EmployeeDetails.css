@@ -1,0 +1,12 @@
+.employee-details {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+.employee-details button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: rgb(208, 194, 223);
+  
+}

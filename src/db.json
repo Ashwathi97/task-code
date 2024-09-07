@@ -1,0 +1,29 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Smurf",
+      "position": "CEO",
+      "department": "Executive",
+      "email": "smurf@example.com",
+      "directReports": [
+        {
+          "id": 2,
+          "name": "Sam",
+          "position": "CTO",
+          "department": "Technology",
+          "email": "sam@example.com",
+          "directReports": [
+            {
+              "id": 3,
+              "name": "Iniyan",
+              "position": "Manager",
+              "department": "Development",
+              "email": "iniyan@example.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
